@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/FF_PROPS/Bark003"
+	//"$bumpmap" "models/FF_PROPS/Bark003_normal"
+	"$nocull" "1"
+	"$model" "1"
+	"$surfaceprop" "wood"
+}

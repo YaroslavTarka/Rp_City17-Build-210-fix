@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/FF_PROPS/Scrub005"
+	//$bumpmap" "models/FF_Humans/dyn_normal"
+
+	"$nocull" "1"
+	"$model" "1"
+	"$surfaceprop" "grass"
+	
+	
+	//"$translucent" 1	
+	
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+
+	
+	"$FlashlightNoLambert" "1"
+}

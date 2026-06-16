@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/Crack_stuck_dirt/cracks_019"
+		"$translucent" 1
+	"$decal" 1
+	$vertexcolor 1
+	$vertexalpha 1
+	$decalscale 0.45
+
+}

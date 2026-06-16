@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Decals/TrashDecal02a"
+	"$decal" 1
+	"$decalscale" .25
+"$detail" "FF_Detail/gmetal_grey"
+"$detailscale" 3
+	
+}

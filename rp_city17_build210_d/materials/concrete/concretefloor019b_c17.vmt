@@ -1,0 +1,36 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/concretefloor019b"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	
+	"LightmappedGeneric_DX9"
+ 	{
+		"$bumpmap" "concrete/concretefloor019b_normal"
+
+	}
+	"$texscale"	4
+	"$bumpscale"	4
+	"$baseTextureOffset" "[0.5 0.5]"
+	"Proxies"
+     	{
+            "TextureTransform"
+            {
+		   "translateVar" "$baseTextureOffset"
+		   "scaleVar"     "$texscale"
+                   "resultVar"    "$baseTextureTransform"
+
+            }
+            "TextureTransform"
+            {
+		   "translateVar" "$baseTextureOffset"
+		   "scaleVar"     "$texscale"
+                   "resultVar"    "$bumptransform"
+            }
+     	}
+
+		"$detail" "overlays/FF_macro16a"
+		"$detailscale" .1	  
+
+}

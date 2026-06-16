@@ -1,0 +1,35 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Tile/tilefloor013b"	
+	"$surfaceprop" "tile"
+
+
+	"LightmappedGeneric_DX9"
+ 	{
+	"$bumpmap" "tile/tilefloor013b_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	}
+	"$texscale"	4
+	"$bumpscale"	8
+	"$baseTextureOffset" "[0.5 0.5]"
+	"Proxies"
+     	{
+            "TextureTransform"
+            {
+		   "translateVar" "$baseTextureOffset"
+		   "scaleVar"     "$texscale"
+                   "resultVar"    "$baseTextureTransform"
+
+            }
+            "TextureTransform"
+            {
+		   "translateVar" "$baseTextureOffset"
+		   "scaleVar"     "$texscale"
+                   "resultVar"    "$bumptransform"
+            }
+     	}
+
+}

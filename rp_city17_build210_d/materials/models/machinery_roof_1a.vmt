@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models/machinery_roof_1a"
+     "$bumpmap" "models/machinery_roof_1a_bump"
+
+}

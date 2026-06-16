@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/FF_PROPS/Leaf006b"
+	//"$translucent" 1
+	"$alphatest" 1
+	"$nocull" "1"
+	"$model" "1"
+	"$surfaceprop" "grass"
+
+}

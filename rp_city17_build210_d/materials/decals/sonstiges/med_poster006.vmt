@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/Sonstiges/MED_Poster006"
+	"$translucent" 1
+	"$decal" 1
+	$decalscale 0.03
+	$vertexalpha 1
+}

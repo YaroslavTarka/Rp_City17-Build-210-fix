@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/FF_PROPS/Scrub005_DETAIL"
+	"$nocull" "1"
+	"$model" "1"
+	"$surfaceprop" "grass"
+	"$AlphaTest" "1"
+	"$FlashlightNoLambert" "1"
+}
