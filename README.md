@@ -1,6 +1,4 @@
-# Rp\_City17-Build-210-fix
+# 🏙️ RP City17 (Build 210 fix)
 
-ENG (via translator) : This repository for the map is "Rp\_City17 - Build 210", in which I try to fix problems on the map, VMF files are presented here. Please read README.md
-
-test webhook
-
+This repository hosts the VMF source files for rp_city17 (Build 210).  
+The project focuses on fixing bugs, improving map quality, and maintaining the original version of the map.
