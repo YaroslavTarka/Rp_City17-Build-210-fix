@@ -1,0 +1,7 @@
+*.log
+*.prt
+*.vmx
+*.bsp
+*.backup
+*.sw.vtx
+*.dx80.vtx
